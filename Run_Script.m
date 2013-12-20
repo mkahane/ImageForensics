@@ -1,0 +1,1 @@
+multiple_compression('uncompressed.png')
